@@ -1,0 +1,15 @@
+{
+  "name": "happy-bubble-pop",
+  "version": "1.0.0",
+  "description": "A browser-based motion bubble popping game for children.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
